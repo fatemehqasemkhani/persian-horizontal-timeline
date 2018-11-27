@@ -1,1 +1,2 @@
-*.Html linguistic-language=Javascript
+* linguist-vendored
+*.js linguist-vendored=false
